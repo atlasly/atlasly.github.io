@@ -2,19 +2,19 @@
 #
 
 # Site settings
-title: Compass Labs Consulting
+title: Atlas.ly
 description: |
   We are geospatial visualization experts,
   driven to provide the most powerful and high performance
   geo temportal visualization experiences in the industry
-owner: 'Compass Labs Consulting, LLC' # or company name
+owner: 'Atlasly, LLC' # or company name
 first_published: 2017 # if migrating another site, the year of your first publish
-email: info@compasslabs.io
+email: info@atlas.ly
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://compasslabs.io" # the base hostname & protocol for your site
+url: "http://atlas.ly" # the base hostname & protocol for your site
 social:
   twitter: https://twitter.com/<username>
-  github: https://github.com/compasslabsconsulting
+  github: https://github.com/atlasly
   linkedin-square: https://linkedin.com/in/<username>
   facebook-official: https://facebook.com/<username>
   google-plus-square: https://plus.google.com/u/0/+<username>
